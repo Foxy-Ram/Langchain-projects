@@ -1,4 +1,6 @@
 # Langchain-projects
 
 ## Project-1
-### Pet name generator
+### Pet Name Generator
+TOOLS : Python | Langchain | GooglePalm | Streamlit
+Note - pip install langchain==0.0.28
